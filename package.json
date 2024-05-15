@@ -1,6 +1,6 @@
 {
   "name": "cosmos-web4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a axelar kit with cosmjs sdk",
   "main": "./index.js",
   "type": "module",
