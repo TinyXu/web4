@@ -22,4 +22,6 @@ async function transfer(mnemonic,from,to,amount,customgas,rpc){
   return result;
 }
 
+
+
 export {transfer,queryBalance}
